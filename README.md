@@ -9,6 +9,8 @@
 [![Repo Size](https://img.shields.io/github/repo-size/lullaby6/agility-enchantment-data-pack?logo=dropbox&color=red)](https://github.com/lullaby6/agility-enchantment-data-pack)
 [![Stars](https://img.shields.io/github/stars/lullaby6/agility-enchantment-data-pack?logo=github&color=yellow)](https://github.com/lullaby6/agility-enchantment-data-pack/stargazers)
 
+`Agility` is a new enchantment for leggings with two levels that increases your step height, allowing you to walk and pass through blocks much more quickly and efficiently.
+
 The enchantment can be obtained from the enchantment table, loot chests or trading with villagers.
 
 Version: `1.21.X`
@@ -32,7 +34,7 @@ Give:
 Enchant:
 
 ```mcfunction
-/enchant @s agility_enchantment:<level>
+/enchant @s agility_enchantment:agility <level>
 ```
 
 Disable:
